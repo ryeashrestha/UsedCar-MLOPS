@@ -1,0 +1,7 @@
+artifact_location: file:///home/riya/airflow/dags/mlruns/411792610260129676
+creation_time: 1747923764115
+experiment_id: '411792610260129676'
+last_update_time: 1747984566087
+lifecycle_stage: deleted
+name: xgboost-redis-inference
+tags: {}

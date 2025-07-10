@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/621363856827059596
+creation_time: 1748408048062
+experiment_id: '621363856827059596'
+last_update_time: 1748408048062
+lifecycle_stage: active
+name: UsedCars_Optuna_Tuning

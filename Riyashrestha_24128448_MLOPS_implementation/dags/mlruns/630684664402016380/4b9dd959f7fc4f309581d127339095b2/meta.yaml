@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630684664402016380/4b9dd959f7fc4f309581d127339095b2/artifacts
+end_time: 1748404885825
+entry_point_name: ''
+experiment_id: '630684664402016380'
+lifecycle_stage: active
+run_id: 4b9dd959f7fc4f309581d127339095b2
+run_name: xgboost_training_20250528_094617
+run_uuid: 4b9dd959f7fc4f309581d127339095b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748404877547
+status: 3
+tags: []
+user_id: riya

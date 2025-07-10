@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486887791520026510/b29f149207bd4ed7a0ce119f0d345296/artifacts
+end_time: 1747980265807
+entry_point_name: ''
+experiment_id: '486887791520026510'
+lifecycle_stage: active
+run_id: b29f149207bd4ed7a0ce119f0d345296
+run_name: Preprocessing_Run_20250523_114925
+run_uuid: b29f149207bd4ed7a0ce119f0d345296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747980265452
+status: 3
+tags: []
+user_id: riya

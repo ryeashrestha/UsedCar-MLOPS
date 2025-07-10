@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/291008375587021338
+creation_time: 1747897758399
+experiment_id: '291008375587021338'
+last_update_time: 1747899412869
+lifecycle_stage: active
+name: 'UsedCars_Price_Prediction_Airflow_version 1 '
+tags: {}

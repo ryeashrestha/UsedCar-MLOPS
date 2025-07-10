@@ -1,0 +1,16 @@
+artifact_uri: file:///home/riya/airflow/dags/mlruns/479516390145634762/9046cd8da90e4a04a555ce5a88e3e170/artifacts
+deleted_time: 1747898071918
+end_time: 1747832046909
+entry_point_name: ''
+experiment_id: '479516390145634762'
+lifecycle_stage: deleted
+run_id: 9046cd8da90e4a04a555ce5a88e3e170
+run_name: Preprocessing_Run
+run_uuid: 9046cd8da90e4a04a555ce5a88e3e170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747832046581
+status: 3
+tags: []
+user_id: riya

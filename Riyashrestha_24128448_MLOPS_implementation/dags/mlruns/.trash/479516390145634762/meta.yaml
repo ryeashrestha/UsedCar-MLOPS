@@ -1,0 +1,7 @@
+artifact_location: file:///home/riya/airflow/dags/mlruns/479516390145634762
+creation_time: 1747832046385
+experiment_id: '479516390145634762'
+last_update_time: 1747898071918
+lifecycle_stage: deleted
+name: UsedCars_Preprocessing_notneeded anymore
+tags: {}

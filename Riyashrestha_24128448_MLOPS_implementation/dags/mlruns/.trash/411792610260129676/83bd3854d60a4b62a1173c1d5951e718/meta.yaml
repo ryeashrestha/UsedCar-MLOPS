@@ -1,0 +1,16 @@
+artifact_uri: file:///home/riya/airflow/dags/mlruns/411792610260129676/83bd3854d60a4b62a1173c1d5951e718/artifacts
+deleted_time: 1747984566087
+end_time: 1747977745762
+entry_point_name: ''
+experiment_id: '411792610260129676'
+lifecycle_stage: deleted
+run_id: 83bd3854d60a4b62a1173c1d5951e718
+run_name: honorable-goose-585
+run_uuid: 83bd3854d60a4b62a1173c1d5951e718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747977745754
+status: 3
+tags: []
+user_id: riya

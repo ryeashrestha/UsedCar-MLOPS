@@ -1,0 +1,7 @@
+artifact_location: file:///home/riya/airflow/dags/mlruns/807649621614918284
+creation_time: 1747841585189
+experiment_id: '807649621614918284'
+last_update_time: 1747842650535
+lifecycle_stage: deleted
+name: UsedCarPricePrediction
+tags: {}

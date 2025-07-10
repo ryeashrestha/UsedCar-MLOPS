@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/573784405244983693/93f98000ed714cfe8901e4d4c36ad527/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '573784405244983693'
+lifecycle_stage: active
+run_id: 93f98000ed714cfe8901e4d4c36ad527
+run_name: UsedCar_XGB_Run_20250522_091751
+run_uuid: 93f98000ed714cfe8901e4d4c36ad527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747884771728
+status: 1
+tags: []
+user_id: riya

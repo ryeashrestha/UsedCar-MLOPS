@@ -1,0 +1,34 @@
+feature,importance
+milage_per_year,1426.0
+engine_hp,1384.0
+milage,1366.0
+brand_freq,1115.0
+engine_displacement_L,1047.0
+model_year,1011.0
+model_freq,849.0
+ext_col_freq,698.0
+int_col_freq,582.0
+accident,195.0
+is_luxury,181.0
+transmission_Manual,142.0
+is_common_color,112.0
+fuel_type_Gasoline,111.0
+brand_model_freq,99.0
+num_cylinders,97.0
+engine_fuel_detail_Gasoline,71.0
+is_hybrid,68.0
+is_turbo_supercharged,61.0
+engine_fuel_detail_Electric,60.0
+car_age,59.0
+fuel_type_E85 Flex Fuel,53.0
+engine_fuel_detail_Unknown,51.0
+transmission_CVT,28.0
+fuel_type_Unknown,14.0
+fuel_type_Hybrid,13.0
+is_electric,13.0
+engine_fuel_detail_Flex Fuel,9.0
+transmission_Unknown,9.0
+engine_fuel_detail_Hybrid,6.0
+fuel_type_Plug-In Hybrid,5.0
+fuel_type_not supported,1.0
+fuel_type_Electric,1.0

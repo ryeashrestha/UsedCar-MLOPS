@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747842904475
+current_stage: None
+description: ''
+last_updated_timestamp: 1747842904475
+name: UsedCarPriceXGBRegressor
+run_id: 6c9d974be48a43509fc57407f9f87046
+run_link: ''
+source: mlflow-artifacts:/573784405244983693/6c9d974be48a43509fc57407f9f87046/artifacts/usedcar_xgb_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/573784405244983693/6c9d974be48a43509fc57407f9f87046/artifacts/usedcar_xgb_model
+user_id: null
+version: 2

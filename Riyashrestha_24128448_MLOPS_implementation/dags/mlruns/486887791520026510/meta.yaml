@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/486887791520026510
+creation_time: 1747899316765
+experiment_id: '486887791520026510'
+last_update_time: 1747899316765
+lifecycle_stage: active
+name: UsedCars_Preprocessing

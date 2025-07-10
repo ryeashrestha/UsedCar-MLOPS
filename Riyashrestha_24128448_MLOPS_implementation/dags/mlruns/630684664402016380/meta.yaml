@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/630684664402016380
+creation_time: 1747899325249
+experiment_id: '630684664402016380'
+last_update_time: 1747899325249
+lifecycle_stage: active
+name: UsedCars_modeltraining

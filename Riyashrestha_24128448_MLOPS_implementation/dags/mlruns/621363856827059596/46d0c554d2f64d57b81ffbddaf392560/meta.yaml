@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/621363856827059596/46d0c554d2f64d57b81ffbddaf392560/artifacts
+end_time: 1748408048141
+entry_point_name: ''
+experiment_id: '621363856827059596'
+lifecycle_stage: active
+run_id: 46d0c554d2f64d57b81ffbddaf392560
+run_name: xgboost_optuna_20250528_103908
+run_uuid: 46d0c554d2f64d57b81ffbddaf392560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748408048111
+status: 4
+tags: []
+user_id: riya

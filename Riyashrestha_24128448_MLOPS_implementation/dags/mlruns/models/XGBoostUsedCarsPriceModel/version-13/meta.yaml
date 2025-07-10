@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748404859546
+current_stage: None
+description: ''
+last_updated_timestamp: 1748404859546
+name: XGBoostUsedCarsPriceModel
+run_id: 59975615b0164af5b667c79cc96639d8
+run_link: ''
+source: mlflow-artifacts:/630684664402016380/59975615b0164af5b667c79cc96639d8/artifacts/xgboost-model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/630684664402016380/59975615b0164af5b667c79cc96639d8/artifacts/xgboost-model
+user_id: null
+version: 13

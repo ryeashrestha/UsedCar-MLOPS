@@ -1,0 +1,6 @@
+artifact_location: file:///home/riya/airflow/dags/mlruns/908787674723471819
+creation_time: 1748405332060
+experiment_id: '908787674723471819'
+last_update_time: 1748405332060
+lifecycle_stage: active
+name: usedcar-xgboost-v1

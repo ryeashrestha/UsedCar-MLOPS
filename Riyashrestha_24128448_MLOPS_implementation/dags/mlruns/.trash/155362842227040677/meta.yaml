@@ -1,0 +1,7 @@
+artifact_location: file:///home/riya/airflow/dags/mlruns/155362842227040677
+creation_time: 1747831982491
+experiment_id: '155362842227040677'
+last_update_time: 1747842655497
+lifecycle_stage: deleted
+name: xgboost_regression_exp
+tags: {}
